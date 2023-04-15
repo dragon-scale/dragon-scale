@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dragon-scale
-- 👀 I’m interested in redteaming
-- 🌱 I’m currently learning c
+- 👀 I’m interested in security and networking
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
